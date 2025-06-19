@@ -1,4 +1,5 @@
-## Hi there 👋
+### Graduando em Segurança Cibernética pelo Instituto de Pós-Graduação e Graduação - IPOG
+### Foco em Segurança de Redes e Prevenção a Ataques Cibernéticos
 
 <!--
 **aureliosccpovoa/aureliosccpovoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
