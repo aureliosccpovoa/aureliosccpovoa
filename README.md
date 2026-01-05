@@ -1,6 +1,8 @@
-### Graduando em Segurança Cibernética pelo Instituto de Pós-Graduação e Graduação - IPOG
-### Foco em Segurança de Redes e Prevenção a Ataques Cibernéticos
-
+### Formação (Credentials) 
+* Graduando em Segurança Cibernética pelo Instituto de Pós-Graduação e Graduação - IPOG
+  * Graduating in Cybersecurity from the Instituto de Pós-Graduação e Graduação - IPOG (Goiania - Goias, Brazil)
+* Foco em Segurança de Redes e Prevenção a Ataques Cibernéticos
+  * Focusing on Network Security and Cyber Attack Prevention
 <!--
 **aureliosccpovoa/aureliosccpovoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
