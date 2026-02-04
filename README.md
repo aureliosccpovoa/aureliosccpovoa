@@ -3,6 +3,9 @@
   * Graduating in Cybersecurity from the Instituto de Pós-Graduação e Graduação - IPOG (Goiania - Goias, Brazil)
 * Foco em Segurança de Redes e Prevenção a Ataques Cibernéticos
   * Focusing on Network Security and Cyber Attack Prevention
+ 
+* Atualmente focado em estudar Python e C para desenvolvimento de aplicativos e ferramentas de segurança cibernética.
+  * Currently focusing in studying Python and C for cybersecurity apps and tools development.
 <!--
 **aureliosccpovoa/aureliosccpovoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
