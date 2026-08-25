@@ -1,5 +1,5 @@
 # Aurélio Sampaio Carrilho de Castro Póvoa
-
+<a href="https://github.com/aureliosccpovoa/aureliosccpovoa/blob/main/README_EN.md" align="left">[🇧🇷 BR]</a>
 ### Credentials 
 * Graduating in Cybersecurity from the Instituto de Pós-Graduação e Graduação - IPOG (Goiania - Goias, Brazil)
 * Focusing on Network Security and Cyber Attack Prevention
