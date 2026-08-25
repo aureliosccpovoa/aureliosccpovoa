@@ -1,5 +1,5 @@
 # Aurélio Sampaio Carrilho de Castro Póvoa
-
+<a href="https://github.com/aureliosccpovoa/aureliosccpovoa/blob/main/README_EN.md" align="left" target="_blank">[🇬🇧 EN]</a>
 ### Formação
 * Graduando em Segurança Cibernética pelo Instituto de Pós-Graduação e Graduação - IPOG
 * Foco em Segurança de Redes e Prevenção a Ataques Cibernéticos
@@ -11,7 +11,7 @@
 
 - 👯 Pronto para colaborar em **projetos de código aberto (open source)**;
 
-- 📫 Fale comigo [aqui](mailto:aureliosccpovoa@gmail.com);
+- 📫 Fale comigo **[aqui](mailto:aureliosccpovoa@gmail.com)**;
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em **[aureliosccpovoa.github.io](https://aureliosccpovoa.github.io)**;
 
