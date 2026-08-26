@@ -1,10 +1,13 @@
 # Aurélio Sampaio Carrilho de Castro Póvoa
-<a href="https://github.com/aureliosccpovoa/" align="left">[🇧🇷 BR]</a>
+
+[🇧🇷 BR](https://github.com/aureliosccpovoa/)
+
 ### Credentials 
-* Graduating in Cybersecurity from the Instituto de Pós-Graduação e Graduação - IPOG (Goiania - Goias, Brazil)
-* Focusing on Network Security and Cyber Attack Prevention
-* Currently focusing in studying Python and C for cybersecurity apps and tools developments, aswell as HTML, CSS and JavaScript for Full Stack development
+* Graduating in Cybersecurity from the Instituto de Pós-Graduação e Graduação - IPOG (Goiania - Goias, Brazil), focusing on Network Security and Cyber Attack Prevention;
+* Studying programming in Python and C for cybersecurity apps and tools developments, aswell as HTML, CSS and JavaScript for Full Stack development.
+
 ---
+
 - 🔭 I'm currently working in projects like [**Dork Web**](https://github.com/aureliosccpovoa/dork-web) e [**Curso de Filosofia**](https://github.com/aureliosccpovoa/curso-de-filosofia-rj);
 
 - 🌱 Learning **Python**, **C**, **HTML**, **CSS** and **JavaScript**;
