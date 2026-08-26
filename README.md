@@ -1,10 +1,13 @@
 # Aurélio Sampaio Carrilho de Castro Póvoa
-<a href="https://github.com/aureliosccpovoa/aureliosccpovoa/blob/main/README_EN.md" align="left" target="_blank">[🇬🇧 EN]</a>
+
+[🇬🇧 EN](https://github.com/aureliosccpovoa/aureliosccpovoa/blob/main/README_EN.md)
+
 ### Formação
-* Graduando em Segurança Cibernética pelo Instituto de Pós-Graduação e Graduação - IPOG
-* Foco em Segurança de Redes e Prevenção a Ataques Cibernéticos
-* Atualmente focado em estudar Python e C para desenvolvimento de aplicativos e ferramentas de segurança cibernética, bem como HTML, CSS e JavaScript para desenvolvimento Full Stack
+* Graduando em Segurança Cibernética pelo Instituto de Pós-Graduação e Graduação - IPOG, com foco em Segurança de Redes e Prevenção a Ataques Cibernéticos;
+* Estudando programação em Python e C para desenvolvimento de aplicativos e ferramentas de segurança cibernética, bem como HTML, CSS e JavaScript para desenvolvimento Full Stack.
+
 ---
+
 - 🔭 Atualmente, estou trabalhando em projetos como [**Dork Web**](https://github.com/aureliosccpovoa/dork-web) e [**Curso de Filosofia**](https://github.com/aureliosccpovoa/curso-de-filosofia-rj);
 
 - 🌱 Aprendendo **Python**, **C**, **HTML**, **CSS** e **JavaScript**;
@@ -34,5 +37,7 @@
 
 ### 🐧 Ambiente
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![KDE](https://img.shields.io/badge/KDE-1D99F3?style=for-the-badge&logo=kde&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+
+---
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=aureliosccpovoa&langs_count=4&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=aureliosccpovoa&langs_count=4&theme=tokyonight)
